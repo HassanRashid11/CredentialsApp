@@ -1,0 +1,3 @@
+Credential Managing application for desktop made using Java. Users can open the application and register a username and password
+which can be saved to either a text or xml file. Default is xml file. Information is encrypted when stored and then decrypted for 
+retrieval. 
